@@ -2,7 +2,7 @@
 
 **Introduction**
 
-In today's world, having immediate access to medical insights is crucial. While platforms like WebMD have long served as a go-to for many seeking preliminary medical advice, we saw an opportunity to go a step further. Introducing our project, which can be thought of as a " **next-generation WebMD"** , harnessing the power of Natural Language Processing and Machine Learning to provide users with more accurate, comprehensive, and tailored insights about their health concerns.
+In today's world, having immediate access to medical insights is crucial. While platforms like WebMD have long served as a go-to for many seeking preliminary medical advice, I saw an opportunity to go a step further. Introducing our project, which can be thought of as a " **next-generation WebMD"** , harnessing the power of Natural Language Processing and Machine Learning to provide users with more accurate, comprehensive, and tailored insights about their health concerns.
 
 **Abstract and Inspiration**
 
