@@ -6,15 +6,15 @@ In today's world, having immediate access to medical insights is crucial. While 
 
 **Abstract and Inspiration**
 
-The medical landscape is rapidly evolving, with technology playing a pivotal role. Early diagnosis is crucial in preventing severe complications. Our inspiration stems from recognizing the need for a tool that can help individuals, especially in the early stages of diseases, when symptoms are ambiguous. Our aim is to provide a user-friendly platform that offers insights based on trusted medical sources, making preliminary diagnoses more accessible and reliable.
+The medical landscape is rapidly evolving, with technology playing a pivotal role. Early diagnosis is crucial in preventing severe complications. My inspiration stems from recognizing the need for a tool that can help individuals, especially in the early stages of diseases, when symptoms are ambiguous. My aim is to provide a user-friendly platform that offers insights based on trusted medical sources, making preliminary diagnoses more accessible and reliable.
 
 **Project Description**
 
-Our objective is to cluster and categorize diseases based on descriptions, signs, and symptoms using advanced NLP algorithms. By diving deep into each disease category, users get insights that are more tailored to their described symptoms, ensuring a more accurate preliminary diagnosis.
+My objective is to cluster and categorize diseases based on descriptions, signs, and symptoms using advanced NLP algorithms. By diving deep into each disease category, users get insights that are more tailored to their described symptoms, ensuring a more accurate preliminary diagnosis.
 
 **Data**
 
-The project heavily relies on the "Professional Guide to Diseases 11th edition," a trusted reference in the medical domain. The book, with over 2900 pages of rich information, serves as the foundational data source.
+The project  relies on the "Professional Guide to Diseases 11th edition," a trusted reference in the medical domain. The book, with over 2900 pages of rich information, serves as the foundational data source.
 
 **Features**
 
@@ -37,6 +37,4 @@ The project heavily relies on the "Professional Guide to Diseases 11th edition,"
 - **Pickle** : Serializing and deserializing Python object structures.
 - **HTML** : Front-end design.
 
-**Conclusion**
 
-In an age where technology and healthcare are becoming increasingly intertwined, our project stands at the forefront, offering a sophisticated alternative to platforms like WebMD. Dive in and experience the future of preliminary medical diagnosis!
