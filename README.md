@@ -38,7 +38,7 @@ The project  relies on the "Professional Guide to Diseases 11th edition," a trus
 - **HTML** : Front-end design.
 
  **Run notebooks in this order** 
- 1- PDF Scanning & Explority Data Analysis
+ 1- PDF Scanning & Explority Data Analysis \n
  2- Topic Modeling
  3- Supervised ML Model
  4- Predicting new input
