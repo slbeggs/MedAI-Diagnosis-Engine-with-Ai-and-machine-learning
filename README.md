@@ -18,7 +18,7 @@ The project  relies on the "Professional Guide to Diseases 11th edition," a trus
 
 **Features**
 
-1. **Advanced NLP Algorithms** : Unlike traditional platforms, our system uses state-of-the-art NLP techniques to understand and analyze user inputs, providing more accurate results.
+1. *Advanced NLP Algorithms* : Unlike traditional platforms, our system uses state-of-the-art NLP techniques to understand and analyze user inputs, providing more accurate results.
 2. **User-friendly Interface** : Designed with the user in mind, our platform is easy to navigate, ensuring a seamless experience.
 3. **Trusted Data Source** : Built on the foundation of a renowned medical textbook, our platform provides insights you can trust.
 4. **Tailored Insights** : Get results that are specifically aligned with your described symptoms, ensuring personalized feedback.
